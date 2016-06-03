@@ -11,7 +11,7 @@ https://github.com/dpa99c/phonegap-launch-navigator<br><br>
 
 =====================================================================<br>
 
-<h1>Utilizando Apps diferentes</h1<br>
+<h1>Utilizando Apps diferentes</h1><br>
 
 <li>launchnavigator.APP.USER_SELECT(Android & iOS) - <b>Utilizo o app nativo</b></li>
 <li>launchnavigator.APP.GOOGLE_MAPS (Android & iOS) - <b>Utilizo o Google Maps</b></li>
