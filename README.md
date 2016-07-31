@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 SendMaps com IntelXDK
 =====================================================================
 
@@ -22,4 +21,3 @@ https://github.com/dpa99c/phonegap-launch-navigator<br><br>
 
 =====================================================================<br>
 # SendMaps<br>
->>>>>>> 621e0c6f366b9a78fe7414d667ee3220dfddceeb
